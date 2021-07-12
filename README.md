@@ -1,2 +1,1 @@
-# coursera
-html-css-js
+This is a testing website for frontend practice
